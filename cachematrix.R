@@ -40,7 +40,7 @@ cacheSolve <- function(x=matrix(), ...) {
 ################################################
 ##Test results
 
-## makeCacheMatrix <- function(x = matrix()) {
+ makeCacheMatrix <- function(x = matrix()) {
    m<-NULL
    set<-function(y){
        x<<-y
